@@ -2,10 +2,10 @@
 
 ## First time setup
 
+After cloning this repo run this in console.
+
 1. `npm install`
-
-
-hr
+2. `bower install`
 
 # Original README
 
