@@ -17,7 +17,7 @@ gulp.task('install', function() {
 });
 
 var options = {
-  remoteUrl: "git@github.com:ajmalafif/sixleaves.git",
+  remoteUrl: "git@github.com:braverails/risto.git",
   branch: "gh-pages"
 };
 
